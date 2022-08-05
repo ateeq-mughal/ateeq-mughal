@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ateeq-mughal
-- 👀 I’m interested in Python, Data Science and Back-End Development.
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on django, computer vision, EDA and python projects.
+- 👀 I’m interested in Python and Java for Back-End Development.
+- 🌱 I’m currently learning Java Spring MVC
+- 💞️ I’m looking to collaborate on django and Django REST projects.
 - 📫 How to reach me: email me at: ateeqmughal272@gmail.com
 
 <!---
