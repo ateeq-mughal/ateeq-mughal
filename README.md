@@ -56,7 +56,7 @@ Outside of work, I’m passionate about **education and sustainable development*
 
 ## 📫 Let’s Connect!  
 - 📧 Email: [ateeqmughal272@gmail.com](mailto:ateeqmughal272@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/ateeq-ur-rehman-nedian]([https://www.linkedin.com/](https://www.linkedin.com/in/ateeq-ur-rehman-nedian/))
+- 💼 LinkedIn: [linkedin.com/in/ateeq-ur-rehman-nedian](https://www.linkedin.com/in/ateeq-ur-rehman-nedian/)
 
 ---
 
