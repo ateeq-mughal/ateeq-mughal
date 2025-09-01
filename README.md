@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ateeq ur Rehman  
+# Hi, I'm Ateeq ur Rehman  
 
 💻 **Software Engineer | AI Enthusiast | Social Impact Builder**  
 
