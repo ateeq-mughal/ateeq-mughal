@@ -27,7 +27,7 @@ Outside of work, I’m passionate about **education and sustainable development*
 
 ## 📂 Highlighted Projects  
 
-- **Junoon - Learning Management System** → A full-featured **Learning Management System** with Django REST backend, mobile apps (Android/iOS), and Next.js admin dashboard. Supports lecture hosting, exams, notifications, chat, and AWS S3 integration.
+- **Junoon - Learning Management System** → A full-featured **Learning Management System** with Django REST backend, mobile apps (Android/iOS), and Next.js admin dashboard. Supports lecture hosting, exams, notifications, chat, and AWS S3 integration and AWS ECS Fargate hosting.
   
 - **Ejento.ai – The Agentic LLM (Data Science Dojo)**  
   - Developed an AI-driven **LLM backend** using Python/Django REST Framework with PostgreSQL.  
