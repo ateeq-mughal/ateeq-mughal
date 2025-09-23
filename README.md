@@ -8,19 +8,28 @@ Outside of work, I’m passionate about **education and sustainable development*
 
 ---
 
+## 🔗 Latest Project  
+
+Check out my latest work: **[Junoon – A Cloud-Native Learning Management System](https://github.com/ateeq-mughal/Junoon)** 🎓  
+
+A production-ready LMS powering **Flutter Android & iOS apps** and a **Next.js admin dashboard**, built with **Django REST Framework**, **AWS ECS**, **S3 + CloudFront**, and **Django Channels** for real-time chat.  
+
+---
+
 ## 🚀 Tech Stack  
 
 ### 🖥️ Backend & Cloud  
-- **Languages & Frameworks**: Python, Django, .NET Core, FastAPI, Flask  
+- **Languages & Frameworks**: Python, Django, .NET Core, FastAPI, Flask
 - **Databases**: PostgreSQL, MySQL, MongoDB, SQLite  
-- **Cloud & DevOps**: AWS (S3, ECS, RDS), Docker, Kubernetes, CI/CD (GitHub Actions, GitLab CI)  
+- **Cloud & DevOps**: Azure, AWS (S3, ECS, RDS), Docker, Kubernetes, CI/CD (GitHub Actions, GitLab CI)  
 
 ### 🌐 Frontend  
 - **Frameworks**: Angular, React (beginner), Next.js  
 - **Core Skills**: HTML5, CSS3, JavaScript, TypeScript  
 
 ### 📊 Data & AI  
-- **Machine Learning & AI**: Scikit-learn, TensorFlow (beginner), Pandas, NumPy  
+
+- **LLM & AI**: Langchain, Hugging Face, Scikit-learn, TensorFlow, Pandas, NumPy  
 - **ETL & Data Processing**: SQLAlchemy, Apache Airflow (learning)  
 
 ---
@@ -29,12 +38,13 @@ Outside of work, I’m passionate about **education and sustainable development*
 
 - **Junoon - Learning Management System** → A full-featured **Learning Management System** with Django REST backend, mobile apps (Android/iOS), and Next.js admin dashboard. Supports lecture hosting, exams, notifications, chat, and AWS S3 integration and AWS ECS Fargate hosting.
   
-- **Ejento.ai – The Agentic LLM (Data Science Dojo)**  
+- **[Ejento.ai](https://ejento.ai) – The Agentic LLM (Data Science Dojo)**  
   - Developed an AI-driven **LLM backend** using Python/Django REST Framework with PostgreSQL.  
   - Built API endpoints for authentication, data uploads, and GPT-based data processing (summarization, entity recognition).  
   - Implemented encryption, access controls, and role-based authentication for data privacy.  
   - Scaled backend to handle thousands of concurrent users, improving UX and decision-making efficiency.
-    
+ 
+- **Grants Management System** → Grants management system for the International Organization for Migration (IOM) for smooth grants processing.
 - **Restaurant POS System** → Inventory-managed POS built with Django + SQLite, auto-adjusting ingredients stock with each order.  
 - **Automation Tools** → Internal tools for workflow optimization, reporting, and data migration.  
 
