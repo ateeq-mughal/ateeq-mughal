@@ -10,7 +10,7 @@ Outside of work, I’m passionate about **education and sustainable development*
 
 ## 🔗 Latest Project  
 
-Check out my latest work: **[Junoon – A Cloud-Native Learning Management System](https://github.com/ateeq-mughal/Junoon)** 🎓  
+Check out my latest work: **[Junoon – Modern Learning Management System](https://github.com/ateeq-mughal/Junoon)** 🎓  
 
 A production-ready LMS powering **Flutter Android & iOS apps** and a **Next.js admin dashboard**, built with **Django REST Framework**, **AWS ECS**, **S3 + CloudFront**, and **Django Channels** for real-time chat.  
 
