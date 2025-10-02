@@ -36,7 +36,7 @@ A production-ready LMS powering **Flutter Android & iOS apps** and a **Next.js a
 
 ## 📂 Highlighted Projects  
 
-- **Junoon - Learning Management System** → A full-featured **Learning Management System** with Django REST backend, mobile apps (Android/iOS), and Next.js admin dashboard. Supports lecture hosting, exams, notifications, chat, and AWS S3 integration and AWS ECS Fargate hosting.
+- **[Junoon - Learning Management System](https://github.com/ateeq-mughal/Junoon)** → A full-featured **Learning Management System** with Django REST backend, mobile apps (Android/iOS), and Next.js admin dashboard. Supports lecture hosting, exams, notifications, chat, and AWS S3 integration and AWS ECS Fargate hosting.
   
 - **[Ejento.ai](https://ejento.ai) – The Agentic LLM (Data Science Dojo)**  
   - Developed an AI-driven **LLM backend** using Python/Django REST Framework with PostgreSQL.  
